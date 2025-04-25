@@ -1,0 +1,28 @@
+# Cypress folders
+cypress/screenshots/
+cypress/videos/
+
+# Cypress configuration files
+cypress.json
+cypress.env.json
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE-specific files
+.vscode/
+.idea/
