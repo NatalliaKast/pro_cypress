@@ -1,5 +1,5 @@
 {
-  "name": "js-cypress",
+  "name": "pro_cypress",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -9,10 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Natallia Kastsiukevich",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^14.3.0"
   },
-  "description": ""
+  "description": "JS Project"
 }
