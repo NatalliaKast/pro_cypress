@@ -12,9 +12,8 @@
 
 1. Creating a New Feature Branch
 
-git checkout develop
-git pull origin develop
-git checkout -b feature/new-test-case
+git checkout feature/branch-name
+git pull origin feature/branch-name
 
 2. Committing Changes
 
