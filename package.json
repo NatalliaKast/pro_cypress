@@ -1,5 +1,9 @@
 {
+feature/task1
   "name": "pro_cypress",
+
+  "name": "js-cypress",
+main
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -9,10 +13,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+feature/task1
   "author": "Natallia Kastsiukevich",
+
+  "author": "",
+main
   "license": "ISC",
   "devDependencies": {
     "cypress": "^14.3.0"
   },
+ feature/task1
   "description": "JS Project"
+
+  "description": ""
+ main
 }

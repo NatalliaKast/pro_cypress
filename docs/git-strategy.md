@@ -36,10 +36,11 @@ Use squash and merge to keep a clean history.
 
 Delete the branch after merging.
 
-
 ## Git Strategy
 
 - **Direct commits to the main branch are declined.**
 - **One approver is required per Pull Request (PR).**
 - **Only squash merges are allowed.**
 - **Source branches are automatically deleted after PR merge.**
+
+Delete the branch after merging.
